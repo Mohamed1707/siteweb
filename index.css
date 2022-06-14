@@ -102,15 +102,6 @@
                         font-size: 30px;
                     }
                     
-                    selecteurs {
-                        background: #333;
-                        border: thin solid #666;
-                        padding: 5px;
-                        text-align: center;
-                        margin-right: 30px;
-                        color: #CCC;
-                    }
-                    
                     img {
                         margin: 0 10px;
                         width: 300px;
@@ -157,4 +148,8 @@
                     textarea {
                         width: 500px;
                         border-radius: 10px;
+                    }
+                    
+                    header {
+                        text-align: center;
                     }
